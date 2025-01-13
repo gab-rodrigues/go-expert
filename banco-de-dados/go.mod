@@ -1,4 +1,4 @@
-module go-expert
+module banco-de-dados
 
 go 1.22.3
 
